@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development?
 - 📫 How to reach me: fuzzmc@outlook.com
 - 😄 Pronouns: Anything
-- ⚡ Fun fact: I work for <a href="https://clipzyapp.com">Clipzy</a>
+- ⚡ Fun fact: I work for <a href="https://clipzyapp.com">Clipzy</a> and <a href="https://nxtclan.co.za/">NXT Clan </a>
 
 <!---
 FuzzMC/FuzzMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
